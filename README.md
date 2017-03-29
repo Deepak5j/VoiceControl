@@ -1,2 +1,2 @@
 # VoiceControl
-Control task via voice.
+Control task via voice on Windows OS.
