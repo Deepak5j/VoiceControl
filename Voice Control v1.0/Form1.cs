@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Speech.Recognition; //1
+using System.Speech.Synthesis;
 
 namespace Voice_Control_v1._0
 {
